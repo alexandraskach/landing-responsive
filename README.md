@@ -1,1 +1,1 @@
-# friday-live-coding
+# Responsive landing page
